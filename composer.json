@@ -1,0 +1,41 @@
+{
+    "name": "bointsoft/logger",
+    "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+    "keywords": ["log", "logging", "psr-3"],
+    "homepage": "https://github.com/bointsoft/logger",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bointsoft Bointsoft",
+            "email": "j@bointsoft.com",
+            "homepage": "https://bointsoft.com"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+
+    },
+    "suggest": {
+       
+    },
+    "autoload": {
+        "psr-4": {"Monolog\\": "src/Bointsoft"}
+    },
+
+    "extra": {
+        "branch-alias": {
+            "dev-main": "2.x-dev"
+        }
+    },
+    "scripts": {
+
+    },
+    "config": {
+        "lock": false,
+        "sort-packages": true,
+        "platform-check": false
+    }
+}
