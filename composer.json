@@ -1,5 +1,5 @@
 {
-    "name": "bointsoft/logger",
+    "name": "joco/logger",
     "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
     "keywords": ["log", "logging", "psr-3"],
     "homepage": "https://github.com/bointsoft/logger",
@@ -7,7 +7,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Bointsoft Bointsoft",
+            "name": "Joco Joco",
             "email": "j@bointsoft.com",
             "homepage": "https://bointsoft.com"
         }
@@ -22,7 +22,7 @@
        
     },
     "autoload": {
-        "psr-4": {"Monolog\\": "src/Bointsoft"}
+        "psr-4": {"Monolog\\": "src/Joco"}
     },
 
     "extra": {

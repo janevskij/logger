@@ -1,7 +1,7 @@
 <?php declare(strict_types=1);
 
 
-namespace Bointsoft;
+namespace Joco;
 
 
 class Logger
